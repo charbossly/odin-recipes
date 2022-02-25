@@ -1,0 +1,70 @@
+body {
+  color: white;
+  background-color: gray;
+}
+.title {
+  text-align: center;
+  font-size: larger;
+  text-transform: uppercase;
+}
+nav {
+  text-align: center;
+  border: 2px black solid;
+}
+.menu {
+  margin: 5px;
+}
+.menu a {
+  text-decoration: none;
+  font-size: 25px;
+  color: blue;
+}
+.back {
+  border: solid 3px white;
+  background-color: burlywood;
+  float: right;
+  border-radius: 50%;
+  width: 74px;
+  font-size: 12px;
+  padding: 1rem;
+}
+.back a {
+  text-decoration: none;
+  color: white;
+}
+.images {
+  text-align: center;
+}
+.formulaire {
+  background-color: white;
+  border: white solid 1px;
+  color: black;
+  box-shadow: 1rem;
+  width: 350px;
+  text-align: center;
+  margin-top: 55px;
+}
+. li a {
+  text-decoration: none;
+  color: black;
+}
+.img {
+  text-align: center;
+  width: 10px;
+}
+.img img {
+  width: 300px;
+}
+.myimg {
+  width: 350px;
+  height: 350px;
+}
+.liste {
+  list-style: none;
+  color: white;
+}
+.liste a {
+  text-decoration: none;
+  color: white;
+  margin-bottom: 1rem;
+}
